@@ -154,7 +154,9 @@ Print 50 Numbers using While Loop Algorithm:
 
 Print "Hello, World!" 10 Times using For Loop Algorithm:
 
-exp6_5
+![image](https://github.com/Preet-Sawant-9/basic-loops/assets/130697042/870440d7-3d90-47ec-8bd8-f0cf42a91536)
+
 
 Print Number Triangle using For Loop Algorithm:
-exp6_6
+![image](https://github.com/Preet-Sawant-9/basic-loops/assets/130697042/e8ea7d19-7018-43b6-9403-983e39f7efdb)
+
